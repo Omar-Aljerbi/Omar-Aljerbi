@@ -17,6 +17,29 @@
 
 ---
 
+## 🧪 QA Training  
+🎯 Completed an **80-hour intensive training** in **Quality Assurance (Manual + Automation)**  
+🏫 Conducted by **Princess Sumaya University for Technology (PSUT)**  
+👨‍🏫 Supervised by **Eng. Abdul Raheem Al-Saqqa**  
+
+---
+
+## 🏅 Certifications  
+- 🧪 **Quality Assurance Certification – PSUT**  
+- 🎓 **Alibaba Cloud Certified Associate (ACA – Cloud Engineer)**  
+- 🎓 **Alibaba Cloud Business User (ACA – Business User)**  
+- ☁️ **Oracle Cloud Infrastructure Foundations 2024**  
+- 🤖 **Oracle AI Foundations**  
+
+---
+
+## 🚀 Projects  
+- [🎯 Smart Sports Event Dashboard](https://github.com/OmarAljerbi/SmartSportsDashboard)  
+- [🗣️ Voice-Based Resume Builder](https://github.com/OmarAljerbi/VoiceCV)  
+- [🧪 QA Automation Demo Project](https://github.com/OmarAljerbi/QAAutomationDemo)  
+
+---
+
 ## 🛠️ Tech Stack 
 
 <p align="center">
@@ -38,7 +61,7 @@
     <img src="https://img.icons8.com/color/48/gmail-new.png" alt="Gmail" />
   </a>
   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-  <a href="https://www.linkedin.com/in/OmarAljerbi/" target="_blank">
+  <a href="https://www.linkedin.com/in/omar-aljerbi-aa72b8260/" target="_blank">
     <img src="https://img.icons8.com/ios-filled/48/0077B5/linkedin.png" alt="LinkedIn" />
   </a>
 </p>
