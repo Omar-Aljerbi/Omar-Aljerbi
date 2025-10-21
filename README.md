@@ -33,13 +33,6 @@
 
 ---
 
-## 🚀 Projects  
-- [🎯 Smart Sports Event Dashboard](https://github.com/OmarAljerbi/SmartSportsDashboard)  
-- [🗣️ Voice-Based Resume Builder](https://github.com/OmarAljerbi/VoiceCV)  
-- [🧪 QA Automation Demo Project](https://github.com/OmarAljerbi/QAAutomationDemo)  
-
----
-
 ## 🛠️ Tech Stack 
 
 <p align="center">
