@@ -1,16 +1,14 @@
-## Hi there 👋
+# 👋 Hi, I'm Omar Aljerbi  
 
-<!--
-**Omar-Aljerbi/Omar-Aljerbi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 Computer Engineering Graduate from Yarmouk University  
+☁️ Cloud Computing & AI Intern at Alibaba Cloud  
+🧪 Junior Quality Assurance Tester (Manual & Automation)  
+💻 Passionate about QA, Cloud, and Data Analysis  
 
-Here are some ideas to get you started:
+📜 **Certifications:**  
+- Alibaba Cloud ACA Cloud Computing  
+- Oracle Cloud Infrastructure Foundations  
+- Oracle Data & AI Foundations  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🌐 **Portfolio:** [omar232454564567.github.io/OmarAljerbi](https://omar232454564567.github.io/OmarAljerbi)  
+📫 **Connect with me:** [LinkedIn](https://linkedin.com/in/OmarAljerbi)
